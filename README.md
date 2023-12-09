@@ -18,7 +18,7 @@ Based on a number of findings, the Excel dashboard also draws attention to which
 
 ### Data Sources
 
-Sales Data: The dataset used for this analysis is the "data.csv" file, containing detailed information about each transaction made by the company's customers.
+Order Data: Alongside with two others, the primary dataset used for this analysis is the "order_dataset.csv" file, containing detailed information about orders, their categories and impacts in dollar value.
 
 ### Tools
 
