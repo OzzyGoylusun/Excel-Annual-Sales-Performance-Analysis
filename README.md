@@ -45,7 +45,7 @@ EDA involved exploring the order data to answer these key questions:
 - Which month of the most profitable year did the retail obtain the maximum profit?
 - From which country has the retailer received the most orders?
 - Which product category in year 2012 resulted in the highest shipping cost?
-- 
+- Which customer segment in year 2013 received the highest discount rates on average?
 
 
 ### Data_Analysis
