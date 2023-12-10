@@ -52,9 +52,9 @@ EDA involved exploring the order data to answer these key questions:
 
 While integrating data from *order_location.csv* into our main order dataset, I appreciated the value that the joint use of **INDEX and MATCH** functions have brought to the table:
 
-In the following instance, the INDEX function takes a reference value as its first parameter while the MATCH function helps returning on which row the reference value locate
+In the following instance, the INDEX function takes an absolute reference array as its first parameter while the MATCH function helps returning on which row the lookup value is located in our lookup array and on which column (i.e., in this case, it is 2).
 
-Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can traverse through the dataset, both vertically and horizontally
+Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can more dynamically traverse through the dataset, both vertically and horizontally
 
 ```excel
 =INDEX(order_location!$A$1:$E$51291; MATCH('1_manipulated_data_sheet'!A2; order_location!$A$1:$A$51291;0); 2)
