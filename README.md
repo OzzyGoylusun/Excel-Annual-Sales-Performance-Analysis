@@ -50,7 +50,11 @@ EDA involved exploring the order data to answer these key questions:
 
 ### Data_Analysis
 
-Compared to my *Frequency* and *Monetary* tables, I found the coding with the **Recency** table a bit more complex due to the natural need to also have to calculate the customers' last booking date beforehand:
+While integrating data from order_location.csv into our main order dataset, I appreciated the value that the joint use of INDEX and MATCH functions have brought to the table:
+
+In the following instance, the INDEX function takes a reference value as its first parameter while the MATCH function helps returning on which row the reference value locate
+
+Going beyond VLOOKUP and HLOOKUP, such use of these functions can traverse through the dataset, both vertically and horizontally
 
 ```sql
 ```
