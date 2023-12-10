@@ -15,24 +15,23 @@ It also highlights in what type of a trend in profits (i.e., in the sense of upt
 
 Based on a number of findings, the Excel dashboard also draws attention to which markets and countries stand out most, which customer segments contributes most to the bottom line and proposes a number of actions accordingly. 
 
-
 ### Data Sources
 
 Order Data: Alongside with two others, the primary dataset used for this analysis is the "order_dataset.csv" file, containing detailed information about orders, their categories and impacts in dollar value.
 
 ### Tools
 
-- PostgreSQL Server - Data Analysis
-  - [Download Here](https://www.postgresql.org/download/)
-  
+- Microsoft Excel - Data Analysis
+  - [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Data Cleaning/Preparation
 
 In the data preparation phase, I performed the following tasks:
 
-1. Data loading and inspection
+1. Data loading, inspection
 2. Handling missing values
 3. Data cleaning
+4. Data integration
    
 ### Exploratory Data Analysis (EDA)
 
