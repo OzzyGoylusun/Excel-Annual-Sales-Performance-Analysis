@@ -35,7 +35,7 @@ In the data preparation phase, I performed the following tasks:
 5. Data manipulation, including but not limited to:
 - Divide & conquer on date/time data
 - Concatenation
-- Conversion of data type
+- Conversion of data types
    
 ### Exploratory Data Analysis (EDA)
 
