@@ -32,7 +32,7 @@ In the data preparation phase, I performed the following tasks:
 2. Data integration
 3. Handling missing values
 4. Data cleaning
-5. Data manipulation
+5. Data manipulation, including but not limited to:
 - Divide & conquer on date/time data
 - Concatenation
 - Conversion of data type
