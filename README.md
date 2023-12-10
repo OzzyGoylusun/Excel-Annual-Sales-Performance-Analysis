@@ -56,7 +56,8 @@ In the following instance, the INDEX function takes a reference value as its fir
 
 Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can traverse through the dataset, both vertically and horizontally
 
-```sql
+```excel
+=INDEX(order_location!$A$1:$E$51291; MATCH('1_manipulated_data_sheet'!A2; order_location!$A$1:$A$51291;0); 2)
 ```
 
 ### Findings
