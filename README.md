@@ -29,7 +29,7 @@ Order Data: Alongside with two others, the primary dataset used for this analysi
 In the data preparation phase, I performed the following tasks:
 
 1. Data loading and inspection
-2. Data integration
+2. Data migration
 3. Handling missing values
 4. Data cleaning
 5. Data manipulation, including but not limited to:
@@ -50,15 +50,17 @@ EDA involved exploring the order data to answer these key questions:
 
 ### Data_Analysis
 
-While integrating data from *order_location.csv* into our main order dataset, I appreciated the value that the joint use of **INDEX and MATCH** functions have brought to the table:
+While migrating data from *order_location.csv* into our main order dataset, I appreciated the value that the joint use of **INDEX and MATCH** functions have brought to the table:
 
-In the following instance, the INDEX function takes an absolute reference array as its first parameter while the MATCH function helps returning on which row the lookup value is located in our lookup array and on which column (i.e., in this case, it is 2).
+In the following instance, the INDEX function takes an absolute reference array as its first parameter while the MATCH function helps returning on which row the lookup value is located in our lookup array and also on which column (i.e., in this case, it is 2).
 
 Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can more dynamically traverse through the dataset, both vertically and horizontally
 
 ```excel
 =INDEX(order_location!$A$1:$E$51291; MATCH('1_manipulated_data_sheet'!A2; order_location!$A$1:$A$51291;0); 2)
 ```
+<img width="576" alt="Screen Shot 2023-12-10 at 16 12 20" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/2813f228-03bf-4c31-83d4-c19ac491d21b">
+
 
 ### Findings
 
