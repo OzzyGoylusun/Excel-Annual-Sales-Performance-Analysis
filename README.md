@@ -28,7 +28,7 @@ Order Data: Alongside with two others, the primary dataset used for this analysi
 
 In the data preparation phase, I performed the following tasks:
 
-1. Data loading, inspection
+1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning
 4. Data integration
