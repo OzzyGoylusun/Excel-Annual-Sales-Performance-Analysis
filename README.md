@@ -24,14 +24,18 @@ Order Data: Alongside with two others, the primary dataset used for this analysi
 - Microsoft Excel - Data Analysis
   - [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-### Data Cleaning/Preparation
+### Data Preparation
 
 In the data preparation phase, I performed the following tasks:
 
 1. Data loading and inspection
-2. Handling missing values
-3. Data cleaning
-4. Data integration
+2. Data integration
+3. Handling missing values
+4. Data cleaning
+5. Data manipulation
+- Divide & conquer on date/time data
+- Concatenation
+- Conversion of data type
    
 ### Exploratory Data Analysis (EDA)
 
