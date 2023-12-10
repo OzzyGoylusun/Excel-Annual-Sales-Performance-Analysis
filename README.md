@@ -39,19 +39,13 @@ In the data preparation phase, I performed the following tasks:
    
 ### Exploratory Data Analysis (EDA)
 
-EDA primarily involved exploring the complex transaction data to answer these key questions:
+EDA involved exploring the order data to answer these key questions:
 
-- What percentage of all customers have achieved an ultimate RFM score of 100 or 125 out of 125 as its **Champions**?
-  
-  - For your information, customers receive a score from 1 to 5 from each category based on how recently, frequently and monetarily they have transacted with the retailer, benchmarked against other customers. For instance:
- 
-      |Recency|Frequency|Monetary|
-      |--------|--------|--------|
-      |5*|5*|5|
-      | | |=125|
-
-- How many potentially loyal customers can the retailer identify to upgrade them to Champions?
-- How many customers is the retailer at the risk of losing due to lack of interaction or some other reasons? 
+- In which year did the retailer experience the highest figures in profit?
+- Which month of the most profitable year did the retail obtain the maximum profit?
+- From which country has the retailer received the most orders?
+- Which product category in year 2012 resulted in the highest shipping cost?
+- 
 
 
 ### Data_Analysis
