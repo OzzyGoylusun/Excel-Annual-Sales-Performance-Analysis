@@ -50,11 +50,11 @@ EDA involved exploring the order data to answer these key questions:
 
 ### Data_Analysis
 
-While integrating data from order_location.csv into our main order dataset, I appreciated the value that the joint use of INDEX and MATCH functions have brought to the table:
+While integrating data from *order_location.csv* into our main order dataset, I appreciated the value that the joint use of **INDEX and MATCH** functions have brought to the table:
 
 In the following instance, the INDEX function takes a reference value as its first parameter while the MATCH function helps returning on which row the reference value locate
 
-Going beyond VLOOKUP and HLOOKUP, such use of these functions can traverse through the dataset, both vertically and horizontally
+Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can traverse through the dataset, both vertically and horizontally
 
 ```sql
 ```
