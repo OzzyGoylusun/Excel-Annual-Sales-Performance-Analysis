@@ -19,7 +19,8 @@ It also highlights in what type of a trend in profits (i.e., growth, sideways or
 
 Based on a number of findings, the Excel dashboard also draws attention to which markets and countries stand out most abd which customer segments contributes most to the bottom line to assist the retailer with handing over a roadmap as to increase their profit margins in 2015 and onwards.
 
-<img width="789" alt="Screen Shot 2023-12-12 at 14 39 09" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/e24d9289-c916-43dc-9606-0f4e058dfe89">
+<img width="886" alt="Screen Shot 2023-12-12 at 15 42 08" src="https://github.com/OzzyGoylusun/Excel-Sales-Performance-Review-with-Descriptive-Stats/assets/152992554/dd4582e3-a1ce-47fe-9857-60aa307fd8e3">
+
 
 
 ### Data Sources
