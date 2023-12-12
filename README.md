@@ -40,13 +40,13 @@ In the data preparation phase, I performed the following tasks:
 3. Handling missing values
 4. Data cleaning
 5. Data manipulation, including but not limited to:
-- Divide & conquer on date/time data
+- Dividing & conquering on date/time data
 - Concatenation
-- Conversion of data types
+- Conversion of various other data types
    
 ### Exploratory Data Analysis (EDA)
 
-In an attempt to extract meaningful insights, EDA involved exploring the order data to answer these key questions:
+In an attempt to extract meaningful insights, EDA first involved exploring the order data to answer these key questions:
 
 - In which year did the retailer experience the highest figures in profit?
 - Which month of the most profitable year did the retail obtain the maximum profit?
