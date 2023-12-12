@@ -72,12 +72,12 @@ Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can more d
 
 ### Findings
 
-For the period 2011-2014, the analysis results are predominantly summarised as follows:
+For the period 2011-2014, the primary analysis results are summarised as follows:
 
-1. The retailer has experienced a parabolic uptrend with **45% growth in profits** achieved in 2014 compared to last year.
+1. The retailer has experienced a parabolic uptrend with **a 45% growth in profits** achieved in 2014 compared to last year.
 2. There has been a continuous downtrend with piling losses in the regions of *Africa* and *EMEA* (i.e., Europe, Middle East and Asia), whereas total profits made in the regions of **LA (i.e., Latin America) and US** thus far continues to aggressively grow.
 3. Both in the **LA and US** markets, the retailer received the highest number of orders from the **Consumer** segment in 2014.
-4. While **the United States** has brought in nearly $1.8 billion in total profits as the top premium market, also having the highest order count w/ ~10000 orders, the country **Barbados** has come out on top by contributing to the bottom-line most in terms of average profits made per order - with a whopping **$3.24 million**.
+4. While **the United States** has brought in nearly $1.8 billion in total profits as the top premium market, also having the highest order count w/ ~10000 orders, the country **Barbados** has come out on top by contributing to the bottom-line most in terms of average profits made per order processed, that is a whopping **$3.24 million**.
 
 
 ### Recommendations
