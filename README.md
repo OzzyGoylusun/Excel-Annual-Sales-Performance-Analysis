@@ -11,6 +11,9 @@
 ---
 Coming into existence in the shape of a dashboard in Excel, this data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products for the time period 2011-2014 as per the dataset at hand.
 
+<img width="1282" alt="Screen Shot 2023-12-12 at 14 36 36" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/f08dcbe7-043c-4e24-85f8-34d20a021b31">
+
+
 It also highlights in what type of a trend in profits (i.e., in the sense of uptrend/growth, sideways or downtrend/decline) the stationery retailer experiences, compared to previous three years, while running its day-to-day operations.
 
 Based on a number of findings, the Excel dashboard also draws attention to which markets and countries stand out most, which customer segments contributes most to the bottom line and proposes a number of actions accordingly. 
@@ -82,16 +85,7 @@ Based on the analysis, I recommend the following actions:
 - Be more selective on which countries in the **Latin America** region:
   - Concentrate more marketing efforts on some LA countries, such as **Mexico, Cuba, El Salvador and Guatemala**
   - Pause operations on other LA countries, such as **Honduras, Panama and Argentina**
-- Undertake a product-nee
-
-### Limitations: 
-
-The following records needed to be removed from the RFM analysis in order to ensure the utmost accuracy of my conclusions:
-
-- Cancelled invoices
-- Missing/corrupted customerIDs
-- Prices lower than $0
-- Records associated with manuals and postage fees
+- Undertake further product-market fit on countries that have produced the highest average profits per order, such as **Honduras**
 
 
 ### References:
