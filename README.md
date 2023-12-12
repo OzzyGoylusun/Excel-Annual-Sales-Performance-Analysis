@@ -67,17 +67,22 @@ Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can more d
 
 For the period 2011-2014, the analysis results are predominantly summarised as follows:
 
-1. The retailer has been in a parabolic uptrend in terms of experiencing a **45% growth in profits** achieved in 2014 compared to last year.
-2. There has been a continuous downtrend with piling losses in the regions of *Africa* and *EMEA* (i.e., Europe, Middle East and Asia), whereas total profits made in the regions of **LA (i.e., Latin America) and US** overall continues to aggressively grow.
-3. Both in the **LA and US** markets in 2014, the retailer received the highest number of orders from the **Consumer** segment.
-4. While **the United States** has brought in nearly $1.8 billion in total profits as number 1, also along with the highest order count ~ nearly 10000 orders, the country **Barbados** has come out on top by contributing to the bottom-line with a whopping $3.24 million in average profits per order.
+1. The retailer has experienced a parabolic uptrend with **45% growth in profits** achieved in 2014 compared to last year.
+2. There has been a continuous downtrend with piling losses in the regions of *Africa* and *EMEA* (i.e., Europe, Middle East and Asia), whereas total profits made in the regions of **LA (i.e., Latin America) and US** thus far continues to aggressively grow.
+3. Both in the **LA and US** markets, the retailer received the highest number of orders from the **Consumer** segment in 2014.
+4. While **the United States** has brought in nearly $1.8 billion in total profits as the top premium market, also having the highest order count w/ ~10000 orders, the country **Barbados** has come out on top by contributing to the bottom-line most in terms of average profits made per order - with a whopping **$3.24 million**.
 
 
 ### Recommendations
 
 Based on the analysis, I recommend the following actions:
 
-- Consider
+- Consider lifting up total order count in critical regions that the firm has already obtained a stronghold, such as **LA and US** as it was observed that the uptrend in # of orders placed has slowed down in the light of the parabolic growth in profits.
+- Indefinitely pause operations on losing markets such as **Africa** and **EMEA**
+- Be more selective on which countries in the **Latin America** region:
+  - Concentrate more marketing efforts on some LA countries, such as **Mexico, Cuba, El Salvador and Guatemala**
+  - Pause operations on other LA countries, such as **Honduras, Panama and Argentina**
+- Undertake a product-nee
 
 ### Limitations: 
 
