@@ -9,7 +9,7 @@
 
 ### Excel Data Analysis Overview
 ---
-Coming into existence in the shape of a dashboard in Excel, this data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products. 
+Coming into existence in the shape of a dashboard in Excel, this data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products for the time period 2011-2014 as per the dataset at hand.
 
 It also highlights in what type of a trend in profits (i.e., in the sense of uptrend/growth, sideways or downtrend/decline) the stationery retailer experiences, compared to previous three years, while running its day-to-day operations.
 
@@ -39,7 +39,7 @@ In the data preparation phase, I performed the following tasks:
    
 ### Exploratory Data Analysis (EDA)
 
-EDA involved exploring the order data to answer these key questions:
+In an attempt to extract meaningful insights, EDA involved exploring the order data to answer these key questions:
 
 - In which year did the retailer experience the highest figures in profit?
 - Which month of the most profitable year did the retail obtain the maximum profit?
@@ -47,6 +47,7 @@ EDA involved exploring the order data to answer these key questions:
 - Which product category in year 2012 resulted in the highest shipping cost?
 - Which customer segment in year 2013 received the highest discount rates on average?
 
+Based on resulting answers from these initial lines of query, EDA went on to generate more actionable findings:
 
 ### Data_Analysis
 
@@ -64,21 +65,19 @@ Going beyond **VLOOKUP** and **HLOOKUP**, such use of these functions can more d
 
 ### Findings
 
-The analysis results are predominantly summarised as follows:
+For the period 2011-2014, the analysis results are predominantly summarised as follows:
 
-1. Approx. 15% of all customers have achieved a total Ultimate RFM Score of 100 or 125, considered **Champions**.
-2. 96 customers out of 4335 have achieved 4 points on Recency, 3 points on Frequency and 4 points on Monetary, considered **Potential Loyalists**.
-3. There are nearly 200 valuable customers who scored less than 3 points on Recency, but scored 4 or 5 points on Frequency and Monetary, considered **At Risk Customers**.
+1. The retailer has been in a parabolic uptrend in terms of experiencing a 45% growth in profits achieved in 2014 compared to last year.
+2. There has been a continuous downtrend with piling losses in the regions of Africa and EMEA (i.e., Europe, Middle East and Asia), whereas total profits made in the regions of LA (i.e.,) Latin America and US overall continues to aggressively grow.
+3. Both in the LA and US markets, Consumer segment 
+4. While the United States has brought in nearly $1.8 billion in total profits as number 1, also along with the highest order count ~ nearly 10000 orders, the country Barbados has come out on top by contributing to the bottom-line with a whopping $3.24 million in average profits per order.
 
-Please note that there were no repetititons/crossovers of customers amongst each customer segment analysed.
 
 ### Recommendations
 
 Based on the analysis, I recommend the following actions:
 
-- Consider further rewarding the **Champions** as they could very well become early adopters for new products and also assist with the promotion of the retailer's brand.
-- Offer membership/loyalty  programs to the **Potential Loyalists** in an attempt to upgrade them to the **Champions** segment.
-- Put in more effort to reconnect with the **At Risk Customers** via personalised communications which include coupons and/or other incentives of some sort.
+- Consider
 
 ### Limitations: 
 
@@ -91,3 +90,4 @@ The following records needed to be removed from the RFM analysis in order to ens
 
 
 ### References:
+
