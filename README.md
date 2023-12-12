@@ -82,14 +82,14 @@ For the period 2011-2014, the primary analysis results are summarised as follows
 
 ### Recommendations
 
-Based on the analysis, I recommend the following actions:
+Based on this analysis, I recommend the following actions:
 
-- Consider lifting up total order count in critical regions that the firm has already obtained a stronghold, such as **LA and US** as it was observed that the uptrend in # of orders placed has slowed down in the light of the parabolic growth in profits.
-- Indefinitely pause operations on losing markets such as **Africa** and **EMEA**.
-- Be more selective on which countries in the **Latin America** region:
-  - Concentrate more marketing efforts on some LA countries, such as **Mexico, Cuba, El Salvador and Guatemala**.
-  - Pause operations on other LA countries, such as **Honduras, Panama and Argentina**.
-- Undertake further product-market fit on countries that have produced the highest average profits per order, such as **Honduras**.
+- Consider lifting up the total order count in stronghold regions, such as **LA and US** since it was observed that the uptrend in # of orders placed has gradually slowed down despite the parabolic growth in profits.
+- Indefinitely pause operations on losing markets such as **Africa** and **EMEA** to curtail cost.
+- Distinguish well-performing countries from others in the **Latin America** region. For instance,
+  - Concentrate more marketing efforts on some LA countries, such as **Mexico and Cuba**.
+  - Pause operations on other LA countries, such as **Panama and Argentina**.
+- Undertake further product-market fit research on niche countries that have produced high average profits per order, such as **Honduras and Trinidad-Tobago**.
 
 
 ### References:
