@@ -85,11 +85,11 @@ For the period 2011-2014, the analysis results are predominantly summarised as f
 Based on the analysis, I recommend the following actions:
 
 - Consider lifting up total order count in critical regions that the firm has already obtained a stronghold, such as **LA and US** as it was observed that the uptrend in # of orders placed has slowed down in the light of the parabolic growth in profits.
-- Indefinitely pause operations on losing markets such as **Africa** and **EMEA**
+- Indefinitely pause operations on losing markets such as **Africa** and **EMEA**.
 - Be more selective on which countries in the **Latin America** region:
-  - Concentrate more marketing efforts on some LA countries, such as **Mexico, Cuba, El Salvador and Guatemala**
-  - Pause operations on other LA countries, such as **Honduras, Panama and Argentina**
-- Undertake further product-market fit on countries that have produced the highest average profits per order, such as **Honduras**
+  - Concentrate more marketing efforts on some LA countries, such as **Mexico, Cuba, El Salvador and Guatemala**.
+  - Pause operations on other LA countries, such as **Honduras, Panama and Argentina**.
+- Undertake further product-market fit on countries that have produced the highest average profits per order, such as **Honduras**.
 
 
 ### References:
