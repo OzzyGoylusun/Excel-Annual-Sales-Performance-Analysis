@@ -94,4 +94,5 @@ Based on the analysis, I recommend the following actions:
 
 ### References:
 
-1. [Advanced Index-Match Functions: YouTube Tutorial](https://www.youtube.com/watch?v=-4yCXpv-drg)
+1. [YouTube Tutorial: Advanced Index-Match Functions](https://www.youtube.com/watch?v=-4yCXpv-drg)
+2. [Microsoft Excel: Create a Map Chart in Excel](https://support.microsoft.com/en-au/office/create-a-map-chart-in-excel-f2cfed55-d622-42cd-8ec9-ec8a358b593b)
