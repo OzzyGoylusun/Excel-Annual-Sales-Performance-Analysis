@@ -46,7 +46,7 @@ In the data preparation phase, I performed the following tasks:
    
 ### Exploratory Data Analysis (EDA)
 
-In an attempt to extract meaningful insights, EDA first involved exploring the order data to answer these key questions:
+EDA first involved exploring the order data to answer these key questions in an attempt to start building an actionable roadmap for upcoming years:
 
 - In which year did the retailer experience the highest figures in profit?
 - Which month of the most profitable year did the retail obtain the maximum profit?
@@ -54,7 +54,7 @@ In an attempt to extract meaningful insights, EDA first involved exploring the o
 - Which product category in year 2012 resulted in the highest shipping cost?
 - Which customer segment in year 2013 received the highest discount rates on average?
 
-Based on resulting answers from these initial lines of query, EDA went on to generate more actionable findings:
+Based on resulting answers from these initial lines of query, EDA went on to generate deeper findings mapped out on a comprehensive Excel dashboard.
 
 ### Data_Analysis
 
