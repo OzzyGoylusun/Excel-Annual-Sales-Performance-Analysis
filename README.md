@@ -9,7 +9,7 @@
 
 ### Excel Data Analysis Overview
 ---
-This Excel data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products for the time period 2011-2014 as per the dataset at hand.
+This Excel data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products **for the time period 2011-2014 as per the dataset at hand.**
 
 <img width="1282" alt="Screen Shot 2023-12-12 at 14 36 36" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/f08dcbe7-043c-4e24-85f8-34d20a021b31">
 
@@ -17,7 +17,7 @@ It also highlights in what type of a trend in profits (i.e., in the sense of upt
 
 <img width="1067" alt="Screen Shot 2023-12-12 at 14 37 06" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/10f146ed-ed37-49b8-87cf-03771b31b116">
 
-Based on a number of findings, the Excel dashboard also draws attention to which markets and countries stand out most, which customer segments contributes most to the bottom line and proposes a number of actions accordingly. 
+Based on a number of findings, the Excel dashboard also draws attention to which markets and countries stand out most, which customer segments contributes most to the bottom line to assist the retailier with how they can increase their profit margins in 2015 and onwards.
 
 <img width="789" alt="Screen Shot 2023-12-12 at 14 39 09" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/e24d9289-c916-43dc-9606-0f4e058dfe89">
 
