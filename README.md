@@ -90,7 +90,7 @@ Based on this analysis, I recommend the following actions:
 - Distinguish well-performing countries from others in the **Latin America** region. For instance,
   - Concentrate more marketing efforts on some LA countries, such as **Mexico and Cuba**.
   - Pause operations on other LA countries, such as **Panama and Argentina**.
-- Undertake further product-market fit research on niche countries that have produced high average profits per order, such as **Honduras and Trinidad-Tobago**.
+- Undertake further product-market fit research on niche countries that have produced high average profits per order, such as **Barbados and Trinidad-Tobago**.
 
 
 ### References:
