@@ -1,4 +1,4 @@
-# Excel-Annual-Sales-Performance-w/Descriptive Stats
+# Excel Annual Sales Performance w/Descriptive Stats
 
 ## Table of Contents
 
