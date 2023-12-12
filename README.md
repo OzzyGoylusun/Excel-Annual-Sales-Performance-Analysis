@@ -9,7 +9,7 @@
 
 ### Excel Data Analysis Overview
 ---
-Coming into existence in the shape of a dashboard in Excel, this data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products for the time period 2011-2014 as per the dataset at hand.
+This Excel data analysis work particularly sheds light on an annual sales performance of a global supplier of office and stationary products for the time period 2011-2014 as per the dataset at hand.
 
 <img width="1282" alt="Screen Shot 2023-12-12 at 14 36 36" src="https://github.com/OzzyGoylusun/Excel-Annual-Sales-Performance-Deep-Dive/assets/152992554/f08dcbe7-043c-4e24-85f8-34d20a021b31">
 
