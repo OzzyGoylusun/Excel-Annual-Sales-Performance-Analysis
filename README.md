@@ -22,7 +22,6 @@ Based on a number of findings, the Excel dashboard draws attention to which mark
 <img width="886" alt="Screen Shot 2023-12-12 at 15 42 08" src="https://github.com/OzzyGoylusun/Excel-Sales-Performance-Review-with-Descriptive-Stats/assets/152992554/dd4582e3-a1ce-47fe-9857-60aa307fd8e3">
 
 
-
 ### Data Sources
 
 Order Data: Alongside with two others, the primary dataset used for this analysis is the "order_dataset.csv" file, containing detailed information about orders, their categories and impacts in dollar value.
