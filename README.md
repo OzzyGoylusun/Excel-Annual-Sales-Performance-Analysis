@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Data Analysis](#data_analysis)
+- [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 
@@ -56,7 +56,7 @@ EDA first involved exploring the order data to answer these key questions in an 
 
 Based on resulting answers from these initial lines of query, EDA went on to generate deeper findings mapped out on a comprehensive Excel dashboard.
 
-### Data_Analysis
+### Data Analysis
 
 While migrating data from *order_location.csv* into our main order dataset, I appreciated the value that the joint use of **INDEX and MATCH** functions have brought to the table:
 
