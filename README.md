@@ -1,4 +1,4 @@
-# Excel- Annual Sales Performance Review and Dashboard
+# Annual Sales Performance Review and Dashboard
 
 ## Table of Contents
 
