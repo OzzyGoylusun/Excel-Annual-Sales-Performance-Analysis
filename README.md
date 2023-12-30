@@ -12,7 +12,7 @@
 This Excel data analysis work sheds light on an annual sales performance of a global supplier of office and stationary products **for the time period 2011-2014 as per the dataset at hand.** 
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Excel.-Sales-Performance-Review-and-Dashboard/blob/main/Visuals/Main%20Dashboard%20Figures.png" alt="Main Dashboard Figures" width="900">
+  <img src="https://github.com/OzzyGoylusun/Excel.-Sales-Performance-Review-and-Dashboard/blob/main/Visuals/Main%20Dashboard%20Figures.png" alt="Main Dashboard Figures" width="1200">
 </p>
 
 It also highlights in what type of a trend in profits (i.e., growth, sideways or decline) the stationery retailer experiences, compared to previous three years.
