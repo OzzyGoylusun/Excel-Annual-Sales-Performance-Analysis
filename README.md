@@ -18,7 +18,7 @@ This Excel data analysis work sheds light on an annual sales performance of a gl
 It also highlights in what type of a trend in profits (i.e., growth, sideways or decline) the stationery retailer experiences, compared to previous three years.
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Excel.-Sales-Performance-Review-and-Dashboard/blob/main/Visuals/Profit%20and%20Order%20Count%20Growth%20Trend.png" alt="Profit and Order Count Growth Trend" width="900" height="300">
+  <img src="https://github.com/OzzyGoylusun/Excel.-Sales-Performance-Review-and-Dashboard/blob/main/Visuals/Profit%20and%20Order%20Count%20Growth%20Trend.png" alt="Profit and Order Count Growth Trend" width="900" height="250">
 </p>
 
 Based on a number of findings, the Excel dashboard draws attention to which markets and countries stand out most abd which customer segments contributes most to the bottom line to assist the retailer with handing over a roadmap as to increase their profit margins in 2015 and onwards.
