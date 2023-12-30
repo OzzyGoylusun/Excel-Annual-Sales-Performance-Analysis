@@ -9,11 +9,13 @@
 
 ### Excel Data Analysis Overview
 ---
-This Excel data analysis work sheds light on an annual sales performance of a global supplier of office and stationary products **for the time period 2011-2014 as per the dataset at hand.** It also highlights in what type of a trend in profits (i.e., growth, sideways or decline) the stationery retailer experiences, compared to previous three years.
+This Excel data analysis work sheds light on an annual sales performance of a global supplier of office and stationary products **for the time period 2011-2014 as per the dataset at hand.** 
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Excel.-Sales-Performance-Review-and-Dashboard/blob/main/Visuals/Main%20Dashboard.png" alt="Main Dashboard" width="850">
+  <img src="https://github.com/OzzyGoylusun/Excel.-Sales-Performance-Review-and-Dashboard/blob/main/Visuals/Main%20Dashboard%20Figures.png" alt="Main Dashboard Figures" width="750">
 </p>
+
+It also highlights in what type of a trend in profits (i.e., growth, sideways or decline) the stationery retailer experiences, compared to previous three years.
 
 Based on a number of findings, the Excel dashboard draws attention to which markets and countries stand out most abd which customer segments contributes most to the bottom line to assist the retailer with handing over a roadmap as to increase their profit margins in 2015 and onwards.
 
